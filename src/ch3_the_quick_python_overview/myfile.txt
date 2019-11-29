@@ -1,0 +1,2 @@
+First line of myfile1.
+Second.
